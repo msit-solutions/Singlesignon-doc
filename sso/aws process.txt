@@ -1,0 +1,58 @@
+===========================================================================  
+ >> CREATION OF AWS FREE TIER ACCOUNT 
+     * Creation of account as a root account 
+        Emai -id : Hr@msitsolutionsgroup.com
+        Password : Msitsolution@2021
+	Phone no : 9517778999
+============================================================================
+ >> CREATION OF AWS STARTUP ACTIVATE ACCOUNT
+     * Fill the details of the acccount
+     * Fill the details of the Company details
+     * Fill the details of the Team profile and submit the application
+     The verification of the activate account has taken about 7 days to 14 days of working days
+==============================================================================
+ >> CREATION OF BILLING ALERT FOR THE AWS ACCOUNT
+    * Requirments - alert must be placed bill reaches 10 dollars
+      
+      * go to Billing section --> click on Billing preferences --> 
+      * click on Recieve free tier usage alerts ( enter the email if required to send to another email notifications)
+      * click on the billing reports can be stored in the s3 bucket in mumbai region. and save the details given to the accounts 
+
+     https://youtu.be/ZzFyqzPjiLw  for billing alerts
+     https://youtu.be/EswjFUc6r3g  for billing details in telugu
+===================================================================================
+  >> CREATION OF THE IAM USERS IN AWS ACCOUNT
+     * Requirments - creation of  users having administration access
+                     creation of user having some services access
+
+
+====================================================================================
+  >> CREATION OF THE VPC AND SUBNETS
+     * creation of infra structure by using terraform of vpc and subnets
+        vpc with cidr
+        private subnet
+	public subnet
+     * names of vpc and subnet
+	Msit-prod-vpc
+        Msit-prod-publicsubnet
+=====================================================================================
+    
+  >> CREATION OF SOME APPS LIKE JENKINS , SONARQUBE , NEXUS/ARIFACTORY
+     * Requirment - creation of terraform code
+                  - creation of git repo and pus to msit solution git hub account
+     * all the terraform code has been present in the github account
+                url -  https://github.com/msit-solutions/msit-terraform-infra.git
+
+=======================================================================================
+
+
+  >> CREATION OF SCHEDULING OF THE SERVERS AND APPS
+     * Requriment - creation of the scheduling from monday - friday time >> 10.00 - 7:00
+                    aws console saturday and sunday >> off the instances
+                   - creation of ssm instead of the ssh
+                   - creation of the sso for the future
+
+       
+    * but the the method can be applicable only in three region in aws  
+=======================================================================================
+
